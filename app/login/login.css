@@ -1,0 +1,30 @@
+
+.login
+{   margin-top: 250px;
+    text-align: center;
+}
+.tbox1
+{
+    clear: both;
+    height: 30px;
+    width: 270px;
+    margin-top: 2px;
+    
+    
+}
+.tbox2
+{
+    clear: both;
+    height: 30px;
+    width: 270px;
+    
+    margin-top: 2px;
+    
+    
+}
+.loginbtn
+{
+    height: 30px;
+    margin-top: 2px;
+}
+

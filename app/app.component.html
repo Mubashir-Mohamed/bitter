@@ -1,0 +1,13 @@
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a [routerLink]="['/welcome']" class="navbar-brand" href="#">BITTER</a>
+    </div>
+    <ul  class="nav navbar-nav navbar-right">
+        <li><a [routerLink]="['/login']"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+        <li><a [routerLink]="['/signup']"><span class="glyphicon glyphicon-user"></span> SignUp</a></li>
+    </ul>
+  </div>
+  </nav>
+  <router-outlet></router-outlet>
